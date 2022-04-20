@@ -8,6 +8,7 @@ import application.ClientApplication;
 public class ConsoleApplication extends ClientApplication {
     public static void main(String[] args) {
         login();
+        System.out.println("hello,world");
     }
 
 
